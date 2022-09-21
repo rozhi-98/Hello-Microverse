@@ -8,6 +8,9 @@ This is my first project in Microverse.
 
 To get a local copy up and running follow these simple example steps.
 
+## Getting Started
+This is a project in which linters for html and css is used. All the tests must be passed and the html file must be connected to the css file.
+
 ### Prerequisites
 
 ### Setup
